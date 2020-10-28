@@ -2,7 +2,9 @@
 
 ### About
 
-The Virality Project
+The project studies the virality of articles based on attributes like title, content, and counts of likes, views, bookmarks, comments and followers based on the [CI&T DeskDrop Data](https://www.kaggle.com/gspmoreira/articles-sharing-reading-from-cit-deskdrop) available on Kaggle.
+
+I use a combination of text mining and tabular data using TF-IDF vectors to combine text and numerical data together to feed it into a machine learning models. Further details of the project are discussed below.
 
 ### Running the Project
 
